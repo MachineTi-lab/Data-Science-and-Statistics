@@ -1,2 +1,44 @@
-# Data-Science-and-Statistics
-The repository I used while learning technologies like NumPy, Pandas, and Seaborn in Python.
+📊 Data Science Studies
+This repository contains my work, sample projects, and notes in the field of data science.
+The aim is to practice data analysis, data preprocessing, statistical tests, and machine learning, while documenting what I learn.
+
+📂 Contents
+Notes and Explanations
+
+Data science concepts, statistical methods, handling missing data, etc.
+
+Code Examples
+
+Data analysis with Python using pandas, NumPy, Matplotlib, Seaborn, etc.
+
+Mini Projects
+
+Small-scale analysis and modeling experiments on datasets.
+
+Resources
+
+Useful links, documents, and recommended learning materials.
+
+🛠️ Technologies Used
+Python 3.x
+
+pandas
+
+NumPy
+
+Matplotlib / Seaborn
+
+scikit-learn
+
+Jupyter Notebook
+
+🎯 Goals
+Practice data science skills
+
+Strengthen understanding of basic and advanced concepts
+
+Build a foundation for larger projects
+
+📌 Note
+This repository is meant to document my learning journey.
+The code and notes are continuously updated.
